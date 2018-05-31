@@ -1,0 +1,15 @@
+.header{
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 3em;
+}
+.infor_h{
+ 	font-size: 20px;
+	font-weight: bold;
+}
+.des{
+	font-weight: bold;
+}
+.block_c{
+	display:block;
+}
